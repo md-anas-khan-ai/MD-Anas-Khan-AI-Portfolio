@@ -1,0 +1,80 @@
+{
+  "radar": [
+    { "subject": "Python", "level": 85 },
+    { "subject": "JavaScript/TS", "level": 80 },
+    { "subject": "React/Next.js", "level": 78 },
+    { "subject": "AI/ML", "level": 82 },
+    { "subject": "Data/DS", "level": 76 },
+    { "subject": "DevOps", "level": 65 }
+  ],
+  "groups": [
+    {
+      "title": "Languages",
+      "items": ["Python", "JavaScript", "TypeScript", "C++", "C"]
+    },
+    {
+      "title": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Jest",
+        "Testing Library"
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "items": [
+        "Node.js",
+        "Express",
+        "Flask",
+        "FastAPI",
+        "REST APIs"
+      ]
+    },
+    {
+      "title": "AI/ML",
+      "items": [
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "YOLOv8",
+        "NLTK/SpaCy"
+      ]
+    },
+    {
+      "title": "LLMs & RAG",
+      "items": ["LangChain", "OpenAI API", "Pinecone", "Vector Databases"]
+    },
+    {
+      "title": "Data & Cloud",
+      "items": [
+        "PostgreSQL",
+        "MongoDB",
+        "Vercel",
+        "Git",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "title": "Tooling & Design",
+      "items": ["VS Code", "Figma", "Prettier", "ESLint"]
+    },
+    {
+      "title": "Soft Skills",
+      "items": [
+        "Communication",
+        "Team Collaboration",
+        "Problem Solving",
+        "Clean Code",
+        "Self-learning"
+      ]
+    }
+  ]
+}
+
+

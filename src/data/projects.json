@@ -1,0 +1,28 @@
+[
+  {
+    "title": "AI Chatbot for College Queries",
+    "year": "2024 – Present",
+    "tech": ["Python", "NLP", "Flask", "HTML/CSS"],
+    "description": "Built an AI-powered chatbot using Python + NLP to answer student FAQs. Served via Flask web app for accessibility and ease of use. Trained on real student Q&A data to improve accuracy and response time.",
+    "github": "",
+    "live": ""
+  },
+  {
+    "title": "Stock Price Prediction System",
+    "year": "2023 – 2024",
+    "tech": ["Python", "Scikit-learn", "Pandas", "Matplotlib", "Seaborn"],
+    "description": "Created ML model using Scikit-learn, Pandas, NumPy for stock predictions. Implemented regression + data visualization with Matplotlib/Seaborn. Achieved 82% accuracy on test predictions.",
+    "github": "",
+    "live": ""
+  },
+  {
+    "title": "Portfolio Website Development",
+    "year": "2023 – 2024",
+    "tech": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    "description": "Designed and deployed my personal portfolio using HTML, CSS, and JS. Showcased academic projects and achievements via responsive UI. Hosted on GitHub Pages with version control via Git.",
+    "github": "",
+    "live": ""
+  }
+]
+
+
